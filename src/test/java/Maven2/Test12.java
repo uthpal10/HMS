@@ -12,7 +12,7 @@ public class Test12 {
 	@Test(groups="Regression")
 	public void test5()
 	{
-		System.out.println("I am Test5");
+		System.out.println("I am Test");
 	}
 	
 	@Test(groups="Smoke")
