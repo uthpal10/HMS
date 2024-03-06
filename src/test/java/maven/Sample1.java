@@ -11,7 +11,7 @@ public class Sample1
 	}
 	
 	@Test(groups="Regression")
-	public void test5()
+	public void test()
 	{
 		System.out.println("I am Test5");
 	}
