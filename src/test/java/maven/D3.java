@@ -19,7 +19,7 @@ public class D3
 	@Test(groups="Smoke")
 	public void test6()
 	{
-		System.out.println("I am Test6");
+		System.out.println("I am Test");
 	}
 	
 }
