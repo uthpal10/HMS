@@ -8,6 +8,6 @@ public class DEMO
 	@Test
 	public void test99()
 	{
-		System.out.println("testiiiii");
+		System.out.println("test");
 	}
 }
